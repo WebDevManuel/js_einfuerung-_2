@@ -1,0 +1,19 @@
+/*######################################
+                GENERAL
+######################################*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*######################################*/
+
+#gallery {
+    border: 2px solid indigo;
+    border-style: solid;
+    display: flex;
+    justify-content: space-around;
+    padding: 3vh 0;
+}
